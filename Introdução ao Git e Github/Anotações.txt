@@ -1,0 +1,17 @@
+Caminhos importantes:
+
+Criar uma pasta através do prompt de comando
+	• mkdir + nome da pasta
+Criar um arquivo pelo terminal
+	• echo + o nome
+	• echo nome > nome.txt
+Apagar arquivo dentro da pasta
+	• del + nome da pasta
+Apagar a pasta
+	• Seta para cima para procurar o comando para criar a pasta (Echo nome > nome.txt)
+	• rmdir + nome da pasta /S /Q
+	
+SHA1 = Código de 40 dígitos que é criado a cada alteração que é feita em cada arquivo.
+
+Para clonar um projeto no git bash
+Copiar a URL pelo github e colar no gitbash inserindo: git clone + URL copiada do github
